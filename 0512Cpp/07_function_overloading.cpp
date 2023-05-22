@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// overload : c++ 의 다형성 중 하나
+// overload : c++ 의 다형성 중 하나, 다른 매개변수를 가진 같은 이름의 여러 함수를 만들 수 있는 기능
 
 int add(int a, int b) { return a + b; }
 float add(float a, float b) { return a + b; }
